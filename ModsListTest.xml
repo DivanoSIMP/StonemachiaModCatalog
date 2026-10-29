@@ -3,7 +3,22 @@
 				xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<ModItem>
 		<Name>
-			TestMod
+			TestMod1
+		</Name>
+	</ModItem>
+	<ModItem>
+		<Name>
+			TestMod2
+		</Name>
+	</ModItem>
+	<ModItem>
+		<Name>
+			TestMod3
+		</Name>
+	</ModItem>
+	<ModItem>
+		<Name>
+			TestMod4
 		</Name>
 	</ModItem>
 </ArrayOfModItem>
